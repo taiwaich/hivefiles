@@ -1,4 +1,4 @@
-make,Model,MPG,Cylinders,Engine Disp,Horsepower,Weight,Accelerate,Year,Origin
+make,Model,mpg,Cylinders,Engine Disp,Horsepower,Weight,Accelerate,Year,Origin
 bmw,bmw 2002,26,4,121,113,2234,12.5,70,European 
 peugeot,peugeot 504,25,4,110,87,2672,17.5,70,European 
 saab,saab 99e,25,4,104,95,2375,17.5,70,European 
